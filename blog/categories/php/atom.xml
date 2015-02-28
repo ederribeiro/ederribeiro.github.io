@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: php | Eder Ribeiro]]></title>
+  <link href="http://ederribeiro.github.io/blog/categories/php/atom.xml" rel="self"/>
+  <link href="http://ederribeiro.github.io/"/>
+  <updated>2015-02-28T17:45:40-03:00</updated>
+  <id>http://ederribeiro.github.io/</id>
+  <author>
+    <name><![CDATA[Eder Ribeiro]]></name>
+    <email><![CDATA[eder@ederibeiro.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[An awesome generator for Codeigniter]]></title>
+    <link href="http://ederribeiro.github.io/an-awesome-generator-for-codeigniter/"/>
+    <updated>2015-02-28T16:34:45-03:00</updated>
+    <id>http://ederribeiro.github.io/an-awesome-generator-for-codeigniter</id>
+    <content type="html"><![CDATA[<p>Hey! I&rsquo;ll show you now a way to save your time when you need to install a copy of the powerful <a href="http://www.codeigniter.com/">CodeIgniter</a> php framework.</p>
+
+<blockquote><p><strong>all we need to do is&hellip;</strong></p>
+
+<ul>
+<li>Install <a href="http://yeoman.io/">Yeoman</a></li>
+<li>Install the <a href="https://github.com/ederribeiro/generator-apu-codeigniter">generator</a></li>
+<li>Initiate the generator</li>
+</ul>
+</blockquote>
+
+<p>and is simpler than it looks, see:</p>
+
+<h4>To install Yeoman:</h4>
+
+<pre><code>$ npm install -g yo
+</code></pre>
+
+<h4>To install generator from npm, run:</h4>
+
+<pre><code>$ npm install -g generator-apu-codeigniter
+</code></pre>
+
+<h4>Finally, initiate the generator:</h4>
+
+<pre><code>$ yo apu-codeigniter
+</code></pre>
+
+<p>after that your generator is ready.</p>
+
+<hr />
+
+<h2>Some things can be useful</h2>
+
+<h4>Install <a href="http://gruntjs.com/">Grunt</a></h4>
+
+<pre><code>$ npm install -g grunt-cli
+</code></pre>
+
+<h4>Install <a href="http://bower.io/">Bower</a></h4>
+
+<pre><code>$ npm install -g bower
+</code></pre>
+
+<h4>Install <a href="https://getcomposer.org/">Composer</a></h4>
+
+<pre><code>$ curl -sS https://getcomposer.org/installer | php
+$ mv composer.phar /usr/local/bin/composer
+</code></pre>
+
+<h4>Install dependencies</h4>
+
+<pre><code>$ npm install
+$ bower install
+$ composer update
+</code></pre>
+
+<h4>Build</h4>
+
+<pre><code>$ grunt build
+</code></pre>
+
+<h4>Set permissions (maybe you need set permission 777 to application/cache folder)</h4>
+
+<pre><code>$ chmod 777 application/cache
+</code></pre>
+
+<p>and It&rsquo;s all folks!</p>
+
+<hr />
+
+<p>I hope help you with these steps, to have a powerful application as quickly as possible.</p>
+
+<p>Feel free to find me and take any questions. Please give your feedback, comment and share it.</p>
+
+<p>Thanks a lot!!</p>
+]]></content>
+  </entry>
+  
+</feed>
