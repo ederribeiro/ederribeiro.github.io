@@ -4,7 +4,7 @@
   <title><![CDATA[Eder Ribeiro]]></title>
   <link href="http://ederribeiro.github.io/atom.xml" rel="self"/>
   <link href="http://ederribeiro.github.io/"/>
-  <updated>2015-02-28T11:57:26-03:00</updated>
+  <updated>2015-02-28T12:26:41-03:00</updated>
   <id>http://ederribeiro.github.io/</id>
   <author>
     <name><![CDATA[Eder Ribeiro]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Começando]]></title>
-    <link href="http://ederribeiro.github.io/blog/2015/02/28/comecando/"/>
+    <link href="http://ederribeiro.github.io/comecando/"/>
     <updated>2015-02-28T11:57:25-03:00</updated>
-    <id>http://ederribeiro.github.io/blog/2015/02/28/comecando</id>
+    <id>http://ederribeiro.github.io/comecando</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
